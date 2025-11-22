@@ -14,3 +14,14 @@ API REST con arquitectura organizada (routes, controllers, models):
 - Frontend en React con formularios controlados
 - Peticiones HTTP usando axios
 - Diseño responsive
+
+Tecnologías
+
+Backend:
+- Node.js con Express
+- MySQL
+- GORM / queries nativas
+Frontend:
+- React
+- Axios
+- React Router
